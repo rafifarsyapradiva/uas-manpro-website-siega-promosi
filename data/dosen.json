@@ -1,0 +1,257 @@
+{
+  "dosen": [
+    {
+      "id": 1,
+      "nama": "Prof. Dr. Ridwan Sanjaya S.E., S.Kom., MS.IEC",
+      "gelar_singkat": "Prof. Dr.",
+      "posisi": "Pendiri & Ketua Program Studi",
+      "nidn": "0612047201",
+      "expertise": [
+        "E-Commerce",
+        "Digital Business",
+        "Innovation Management",
+        "Entrepreneurship",
+        "Business Strategy"
+      ],
+      "pendidikan": [
+        {
+          "jenjang": "S3 (Doktor)",
+          "bidang": "Business Innovation",
+          "universitas": "Universitas Indonesia",
+          "tahun": "2015"
+        },
+        {
+          "jenjang": "S2 (Master)",
+          "bidang": "Information & E-Commerce",
+          "universitas": "University of Technology, Australia",
+          "tahun": "2008"
+        },
+        {
+          "jenjang": "S1",
+          "bidang": "Sistem Komputer & Ekonomi",
+          "universitas": "Double Degree Program",
+          "tahun": "2005"
+        }
+      ],
+      "publikasi_terpilih": [
+        "E-Commerce Strategy in Digital Era (2024)",
+        "Innovation Management for SMEs (2023)",
+        "Digital Transformation Guide (2022)"
+      ],
+      "mata_kuliah": [
+        "E-Commerce Strategy",
+        "Digital Business Innovation",
+        "Entrepreneurship & Startup",
+        "Business Model Innovation"
+      ],
+      "kontak": {
+        "email": "ridwan@unika.ac.id",
+        "phone": "+62 819-0338-5595",
+        "office": "Ruang Dosen FIK, Lt. 3"
+      },
+      "foto": "https://siega.id/assets/images/dosen/ridwan-sanjaya.jpg",
+      "scholar": "https://scholar.google.com/ridwansanjaya",
+      "bio": "Founder dan Ketua Program Studi SIEGA dengan visi menghasilkan lulusan yang siap menghadapi era digital. Aktif dalam penelitian e-commerce dan pemberdayaan UMKM melalui teknologi."
+    },
+    {
+      "id": 2,
+      "nama": "Dr. Bernadinus Harnadi, S.T., M.T.",
+      "gelar_singkat": "Dr.",
+      "posisi": "Dosen Sistem Informasi",
+      "nidn": "0615067801",
+      "expertise": [
+        "Enterprise Systems",
+        "Business Intelligence",
+        "Data Analytics",
+        "ERP Systems",
+        "IT Governance"
+      ],
+      "pendidikan": [
+        {
+          "jenjang": "S3 (Doktor)",
+          "bidang": "Information Systems",
+          "universitas": "Institut Teknologi Bandung",
+          "tahun": "2018"
+        },
+        {
+          "jenjang": "S2 (Master)",
+          "bidang": "Information Technology",
+          "universitas": "Institut Teknologi Sepuluh Nopember",
+          "tahun": "2010"
+        },
+        {
+          "jenjang": "S1",
+          "bidang": "Teknik Informatika",
+          "universitas": "Universitas Gadjah Mada",
+          "tahun": "2003"
+        }
+      ],
+      "publikasi_terpilih": [
+        "ERP Implementation Success Factors (2024)",
+        "Business Intelligence for Decision Making (2023)",
+        "Big Data Analytics in Enterprise (2022)"
+      ],
+      "mata_kuliah": [
+        "Enterprise Resource Planning",
+        "Business Intelligence",
+        "Data Mining & Analytics",
+        "IT Project Management"
+      ],
+      "kontak": {
+        "email": "harnadi@unika.ac.id",
+        "phone": "+62 812-3456-7890",
+        "office": "Ruang Dosen FIK, Lt. 3"
+      },
+      "foto": "https://siega.id/assets/images/dosen/harnadi.jpg",
+      "scholar": "https://scholar.google.com/harnadi",
+      "bio": "Spesialis dalam sistem enterprise dan business intelligence dengan pengalaman konsultasi di berbagai perusahaan besar. Fokus pada penelitian ERP dan data analytics."
+    },
+    {
+      "id": 3,
+      "nama": "Dr. T. Brenda Chandrawati, S.T., M.T.",
+      "gelar_singkat": "Dr.",
+      "posisi": "Dosen Game Technology & Multimedia",
+      "nidn": "0622078202",
+      "expertise": [
+        "Game Development",
+        "Virtual Reality",
+        "Augmented Reality",
+        "Immersive Technology",
+        "Computer Graphics"
+      ],
+      "pendidikan": [
+        {
+          "jenjang": "S3 (Doktor)",
+          "bidang": "Computer Science",
+          "universitas": "Universitas Indonesia",
+          "tahun": "2020"
+        },
+        {
+          "jenjang": "S2 (Master)",
+          "bidang": "Information Technology",
+          "universitas": "Institut Teknologi Bandung",
+          "tahun": "2012"
+        },
+        {
+          "jenjang": "S1",
+          "bidang": "Teknik Informatika",
+          "universitas": "Universitas Diponegoro",
+          "tahun": "2005"
+        }
+      ],
+      "publikasi_terpilih": [
+        "VR in Education: Systematic Review (2024)",
+        "Game-Based Learning Effectiveness (2023)",
+        "AR for Mobile Applications (2022)"
+      ],
+      "mata_kuliah": [
+        "Game Design & Development",
+        "Virtual Reality Programming",
+        "3D Modeling & Animation",
+        "Immersive Technology"
+      ],
+      "kontak": {
+        "email": "brenda@unika.ac.id",
+        "phone": "+62 813-4567-8901",
+        "office": "Lab Game Technology FIK"
+      },
+      "foto": "https://siega.id/assets/images/dosen/brenda.jpg",
+      "scholar": "https://scholar.google.com/brenda",
+      "bio": "Ahli dalam pengembangan game dan teknologi immersive. Aktif membimbing mahasiswa dalam game development dan VR/AR projects. Pembicara di berbagai game developer conferences."
+    },
+    {
+      "id": 4,
+      "nama": "Agus Cahyo Nugroho, S.Kom., M.T.",
+      "gelar_singkat": "M.T.",
+      "posisi": "Dosen E-Commerce & IoT",
+      "nidn": "0618098501",
+      "expertise": [
+        "E-Commerce Technology",
+        "Internet of Things",
+        "Digital Innovation",
+        "Web Development",
+        "Mobile Commerce"
+      ],
+      "pendidikan": [
+        {
+          "jenjang": "S2 (Master)",
+          "bidang": "Information Technology",
+          "universitas": "Universitas Gadjah Mada",
+          "tahun": "2015"
+        },
+        {
+          "jenjang": "S1",
+          "bidang": "Sistem Komputer",
+          "universitas": "Universitas Diponegoro",
+          "tahun": "2007"
+        }
+      ],
+      "publikasi_terpilih": [
+        "IoT for Smart E-Commerce (2024)",
+        "Digital Payment Systems (2023)",
+        "Mobile Commerce Trends (2022)"
+      ],
+      "mata_kuliah": [
+        "E-Commerce Technology",
+        "Internet of Things",
+        "Web Programming",
+        "Mobile Application Development"
+      ],
+      "kontak": {
+        "email": "aguscahyo@unika.ac.id",
+        "phone": "+62 814-5678-9012",
+        "office": "Lab E-Commerce FIK"
+      },
+      "foto": "https://siega.id/assets/images/dosen/agus-cahyo.jpg",
+      "scholar": "https://scholar.google.com/aguscahyo",
+      "bio": "Praktisi dan akademisi di bidang e-commerce dan IoT. Berpengalaman mengembangkan solusi digital untuk UMKM dan startup. Mentor dalam berbagai program inkubasi bisnis."
+    },
+    {
+      "id": 5,
+      "nama": "Andre Kurniawan Pamudji, S.Kom., M.Ling.",
+      "gelar_singkat": "M.Ling.",
+      "posisi": "Dosen Sistem Informasi & Pemrograman",
+      "nidn": "0625098802",
+      "expertise": [
+        "Software Engineering",
+        "Web Development",
+        "Mobile Apps",
+        "Database Systems",
+        "Programming Languages"
+      ],
+      "pendidikan": [
+        {
+          "jenjang": "S2 (Master)",
+          "bidang": "Computational Linguistics",
+          "universitas": "Universitas Indonesia",
+          "tahun": "2016"
+        },
+        {
+          "jenjang": "S1",
+          "bidang": "Sistem Komputer",
+          "universitas": "Universitas Diponegoro",
+          "tahun": "2010"
+        }
+      ],
+      "publikasi_terpilih": [
+        "Modern Web Development Practices (2024)",
+        "Mobile App Design Patterns (2023)",
+        "Software Engineering Best Practices (2022)"
+      ],
+      "mata_kuliah": [
+        "Web Programming",
+        "Mobile Programming",
+        "Software Engineering",
+        "Database Management Systems"
+      ],
+      "kontak": {
+        "email": "andre@unika.ac.id",
+        "phone": "+62 815-6789-0123",
+        "office": "Ruang Dosen FIK, Lt. 3"
+      },
+      "foto": "https://siega.id/assets/images/dosen/andre.jpg",
+      "scholar": "https://scholar.google.com/andrekp",
+      "bio": "Fokus pada software engineering dan application development. Membimbing mahasiswa dalam berbagai project aplikasi web dan mobile. Aktif dalam komunitas developer Indonesia."
+    }
+  ]
+}

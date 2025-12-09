@@ -1,0 +1,124 @@
+{
+  "faq": [
+    {
+      "id": 1,
+      "kategori": "Pendaftaran",
+      "pertanyaan": "Bagaimana cara mendaftar ke Program Studi SIEGA?",
+      "jawaban": "Anda bisa mendaftar melalui website PMB Unika Soegijapranata di pmb.unika.ac.id. Pilih Program Studi Sistem Informasi (SIEGA), upload dokumen persyaratan, bayar biaya pendaftaran Rp 500.000, kemudian ikuti test dan wawancara. Info lengkap hubungi WhatsApp PMB: 0819-0338-5595"
+    },
+    {
+      "id": 2,
+      "kategori": "Pendaftaran",
+      "pertanyaan": "Apa saja jalur penerimaan mahasiswa baru di SIEGA?",
+      "jawaban": "SIEGA menyediakan 4 jalur penerimaan: 1) Jalur Reguler (test + wawancara), 2) Jalur Prestasi (untuk siswa berprestasi), 3) Jalur Rapor (berdasarkan nilai rapor), 4) Jalur KIP Kuliah (beasiswa pemerintah). Setiap jalur memiliki persyaratan berbeda."
+    },
+    {
+      "id": 3,
+      "kategori": "Biaya",
+      "pertanyaan": "Berapa biaya kuliah di SIEGA per semester?",
+      "jawaban": "SPP per semester adalah Rp 9.500.000 untuk konsentrasi regular (SI, E-Commerce, Game Tech). Untuk konsentrasi Akuntansi-SI (double degree) adalah Rp 12.500.000 per semester. Biaya ini belum termasuk biaya praktikum (Rp 750.000) dan kemahasiswaan (Rp 350.000) per semester."
+    },
+    {
+      "id": 4,
+      "kategori": "Biaya",
+      "pertanyaan": "Apakah ada beasiswa yang tersedia?",
+      "jawaban": "Ya! SIEGA menyediakan berbagai beasiswa: 1) Beasiswa Prestasi Akademik (100% SPP untuk IPK ≥ 3.75), 2) Beasiswa Prestasi Non-Akademik (50% SPP untuk atlet/seniman berprestasi), 3) Beasiswa KIP Kuliah (full tuition + biaya hidup), 4) Beasiswa Alumni & Donatur. Informasi lengkap hubungi bagian keuangan."
+    },
+    {
+      "id": 5,
+      "kategori": "Biaya",
+      "pertanyaan": "Apakah bisa cicil pembayaran SPP?",
+      "jawaban": "Ya, tersedia 3 skema pembayaran: 1) Lunas di awal (dapat diskon 5%), 2) Cicilan 2x (tidak ada biaya tambahan), 3) Cicilan 3x (biaya admin 2%). Pilih skema yang sesuai dengan kemampuan finansial Anda."
+    },
+    {
+      "id": 6,
+      "kategori": "Akademik",
+      "pertanyaan": "Apa perbedaan 4 konsentrasi di SIEGA?",
+      "jawaban": "SIEGA memiliki 4 konsentrasi: 1) Sistem Informasi - fokus ERP & Business Intelligence, 2) E-Commerce - fokus digital business & marketing, 3) Game Technology - fokus game dev & VR/AR, 4) Akuntansi-SI - double degree S.Kom + S.Ak. Setiap konsentrasi punya mata kuliah unggulan dan career path berbeda."
+    },
+    {
+      "id": 7,
+      "kategori": "Akademik",
+      "pertanyaan": "Kapan mahasiswa memilih konsentrasi?",
+      "jawaban": "Mahasiswa memilih konsentrasi di semester 5 (setelah menyelesaikan mata kuliah dasar di semester 1-4). Namun, mahasiswa sudah bisa explore keempat konsentrasi sejak semester awal melalui mata kuliah pengenalan dan workshop."
+    },
+    {
+      "id": 8,
+      "kategori": "Akademik",
+      "pertanyaan": "Berapa lama waktu studi untuk program double degree Akuntansi-SI?",
+      "jawaban": "Program double degree Akuntansi-SI membutuhkan waktu 4.5 tahun (9 semester) untuk menyelesaikan kedua gelar (S.Kom dan S.Ak). Lebih efisien dibanding mengambil 2 program terpisah yang butuh 8 tahun."
+    },
+    {
+      "id": 9,
+      "kategori": "Fasilitas",
+      "pertanyaan": "Apa saja fasilitas lab yang tersedia di SIEGA?",
+      "jawaban": "SIEGA memiliki 4 lab utama: 1) Lab Sistem Informasi (SAP, Oracle, Power BI), 2) Lab E-Commerce (Shopify, Google Analytics), 3) Lab Game Technology (Unity, Unreal, VR headsets), 4) Lab Akuntansi-SI (Accurate, MYOB, Zahir). Semua lab dilengkapi PC spesifikasi tinggi dan software berlisensi."
+    },
+    {
+      "id": 10,
+      "kategori": "Fasilitas",
+      "pertanyaan": "Apakah ada co-working space untuk mahasiswa?",
+      "jawaban": "Ya! SIEGA memiliki Co-Working Space dengan WiFi high-speed, meeting rooms, dan pantry. Tersedia juga Innovation Hub untuk mahasiswa yang ingin develop startup. Akses 24/7 untuk tenant startup."
+    },
+    {
+      "id": 11,
+      "kategori": "Karir",
+      "pertanyaan": "Bagaimana prospek kerja lulusan SIEGA?",
+      "jawaban": "Alumni SIEGA bekerja di perusahaan ternama seperti Gojek, Tokopedia, Shopee, Bank BCA, Deloitte, PwC, dan lainnya. Posisi yang sering diisi: Business Analyst, System Analyst, Digital Marketing Manager, Game Developer, IT Auditor, dengan salary range Rp 7-30 juta/bulan tergantung posisi."
+    },
+    {
+      "id": 12,
+      "kategori": "Karir",
+      "pertanyaan": "Apakah ada program magang?",
+      "jawaban": "Ya! SIEGA memiliki program MBKM (Merdeka Belajar Kampus Merdeka) dengan kerja sama di perusahaan unicorn seperti Gojek, Tokopedia, Traveloka, Shopee. Mahasiswa semester 5-6 bisa magang 5 bulan full-time dengan konversi SKS dan allowance dari perusahaan."
+    },
+    {
+      "id": 13,
+      "kategori": "Karir",
+      "pertanyaan": "Apakah lulusan SIEGA bisa jadi entrepreneur?",
+      "jawaban": "Sangat bisa! SIEGA memiliki Innovation Hub untuk inkubasi startup mahasiswa. Alumni seperti Alexander Chen (founder TechCommerce) membuktikan bahwa SIEGA mendukung entrepreneurship. Tersedia mentoring, funding support, dan networking dengan investor."
+    },
+    {
+      "id": 14,
+      "kategori": "Kehidupan Kampus",
+      "pertanyaan": "Apa saja organisasi mahasiswa yang ada di SIEGA?",
+      "jawaban": "Ada Himpunan Mahasiswa SIEGA, Google Developer Student Club, Game Developer Club, E-Commerce Community, dan berbagai UKM tingkat universitas. Mahasiswa didorong aktif berorganisasi untuk develop soft skills dan networking."
+    },
+    {
+      "id": 15,
+      "kategori": "Kehidupan Kampus",
+      "pertanyaan": "Apakah sering ada workshop dan seminar?",
+      "jawaban": "Ya, sangat sering! SIEGA rutin mengadakan workshop (AI/ML, UI/UX, Blockchain), seminar nasional dengan pembicara dari industri, hackathon, game jam, dan tech talk. Rata-rata ada 2-3 kegiatan per bulan. Gratis untuk mahasiswa SIEGA."
+    },
+    {
+      "id": 16,
+      "kategori": "Kehidupan Kampus",
+      "pertanyaan": "Apakah ada program study tour atau pertukaran pelajar?",
+      "jawaban": "Ya! SIEGA mengadakan study tour ke negara seperti Singapore, Thailand, dan Jepang untuk visit tech companies dan universitas. Ada juga program student exchange dengan universitas partner di luar negeri. Biaya bervariasi tergantung destinasi."
+    },
+    {
+      "id": 17,
+      "kategori": "Teknis",
+      "pertanyaan": "Apakah harus punya laptop sendiri?",
+      "jawaban": "Ya, sangat disarankan punya laptop sendiri untuk mengerjakan tugas dan project. Spesifikasi minimal: Intel i5/Ryzen 5, RAM 8GB, SSD 256GB. Untuk konsentrasi Game Technology disarankan RAM 16GB dan GPU dedicated. Lab kampus juga tersedia jika butuh workstation lebih powerful."
+    },
+    {
+      "id": 18,
+      "kategori": "Teknis",
+      "pertanyaan": "Apakah perlu background programming sebelum masuk?",
+      "jawaban": "Tidak wajib, tapi akan sangat membantu. Curriculum SIEGA dirancang from scratch, jadi pemula bisa mengikuti. Yang penting adalah passion untuk belajar teknologi dan willingness to practice coding regularly."
+    },
+    {
+      "id": 19,
+      "kategori": "Umum",
+      "pertanyaan": "Apa keunggulan SIEGA dibanding prodi SI di universitas lain?",
+      "jawaban": "SIEGA unik karena: 1) 4 konsentrasi spesifik (tidak general), 2) Lab modern dengan VR/AR, 3) Kerja sama dengan unicorn untuk MBKM, 4) Double degree option (Akuntansi-SI), 5) Akreditasi Baik Sekali (A), 6) Dosen praktisi industri, 7) Strong alumni network, 8) Filosofi 'Harvest Your Future'."
+    },
+    {
+      "id": 20,
+      "kategori": "Umum",
+      "pertanyaan": "Bagaimana cara menghubungi SIEGA untuk informasi lebih lanjut?",
+      "jawaban": "Anda bisa menghubungi kami melalui: WhatsApp: 0819-0338-5595, Email: si@unika.ac.id, Instagram: @siega_unika, Website: https://siega.id. Kami juga buka open house setiap bulan untuk calon mahasiswa yang ingin visit kampus langsung."
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "konsentrasi": [
+    {
+      "id": "sistem-informasi",
+      "nama": "Sistem Informasi",
+      "nama_inggris": "Business Information Systems",
+      "icon": "database",
+      "color": "#6366f1",
+      "deskripsi_singkat": "Merancang dan mengembangkan sistem informasi untuk mendukung proses bisnis organisasi",
+      "deskripsi_lengkap": "Konsentrasi Sistem Informasi fokus pada pengembangan solusi teknologi informasi untuk kebutuhan bisnis. Mahasiswa akan belajar menganalisis kebutuhan bisnis, merancang sistem, hingga implementasi teknologi informasi yang efektif.",
+      "keunggulan": [
+        "Pembelajaran berbasis project real industry",
+        "Sertifikasi internasional (Oracle, Microsoft)",
+        "Praktik langsung dengan ERP Systems",
+        "Kolaborasi dengan perusahaan multinasional"
+      ],
+      "mata_kuliah_unggulan": [
+        "Enterprise Resource Planning",
+        "Business Intelligence",
+        "Customer Relationship Management",
+        "IT Project Management",
+        "Data Analytics",
+        "Cloud Computing",
+        "Cyber Security",
+        "IT Audit"
+      ],
+      "career_paths": [
+        {
+          "title": "Business Analyst",
+          "salary_range": "8-15 juta",
+          "companies": ["Gojek", "Tokopedia", "Telkom Indonesia"]
+        },
+        {
+          "title": "System Analyst",
+          "salary_range": "10-18 juta",
+          "companies": ["Bank BCA", "Mandiri", "Astra International"]
+        },
+        {
+          "title": "IT Consultant",
+          "salary_range": "12-25 juta",
+          "companies": ["Deloitte", "Accenture", "PwC"]
+        },
+        {
+          "title": "ERP Specialist",
+          "salary_range": "15-30 juta",
+          "companies": ["SAP Indonesia", "Oracle", "Microsoft"]
+        },
+        {
+          "title": "Data Analyst",
+          "salary_range": "9-16 juta",
+          "companies": ["Bukalapak", "Shopee", "Grab"]
+        }
+      ],
+      "alumni_success": [
+        {
+          "nama": "Yohanes Surya",
+          "angkatan": "2018",
+          "posisi": "Senior Business Analyst",
+          "perusahaan": "Gojek",
+          "testimony": "SIEGA memberikan fondasi yang kuat dalam memahami bisnis dan teknologi secara bersamaan."
+        }
+      ]
+    },
+    {
+      "id": "e-commerce",
+      "nama": "E-Commerce",
+      "nama_inggris": "Electronic Commerce",
+      "icon": "shopping-cart",
+      "color": "#3b82f6",
+      "deskripsi_singkat": "Menguasai teknologi dan strategi bisnis digital untuk perdagangan elektronik modern",
+      "deskripsi_lengkap": "Konsentrasi E-Commerce mempersiapkan mahasiswa untuk berkarir di industri perdagangan digital yang berkembang pesat. Fokus pada digital marketing, online business management, dan teknologi e-commerce.",
+      "keunggulan": [
+        "Lab E-Commerce dengan platform real",
+        "Partnership dengan marketplace ternama",
+        "Program magang di startup unicorn",
+        "Mentoring dari praktisi e-commerce"
+      ],
+      "mata_kuliah_unggulan": [
+        "Digital Marketing",
+        "E-Commerce Strategy",
+        "Online Consumer Behavior",
+        "Payment Systems & Fintech",
+        "Supply Chain Management",
+        "Social Media Marketing",
+        "SEO & SEM",
+        "Dropshipping & Marketplace"
+      ],
+      "career_paths": [
+        {
+          "title": "Digital Marketing Specialist",
+          "salary_range": "7-14 juta",
+          "companies": ["Tokopedia", "Shopee", "Bukalapak"]
+        },
+        {
+          "title": "E-Commerce Manager",
+          "salary_range": "10-20 juta",
+          "companies": ["Unilever", "Nestle", "P&G"]
+        },
+        {
+          "title": "Marketplace Manager",
+          "salary_range": "9-17 juta",
+          "companies": ["Lazada", "Blibli", "JD.ID"]
+        },
+        {
+          "title": "Online Entrepreneur",
+          "salary_range": "10-50 juta+",
+          "companies": ["Own Business", "Startup Founder"]
+        },
+        {
+          "title": "Social Media Strategist",
+          "salary_range": "8-15 juta",
+          "companies": ["Agency", "Brand Owner"]
+        }
+      ],
+      "alumni_success": [
+        {
+          "nama": "Maxine Olexa",
+          "angkatan": "2020",
+          "posisi": "Student of The Year 2022",
+          "perusahaan": "Unika Soegijapranata",
+          "testimony": "Konsentrasi E-Commerce membuka wawasan saya tentang bisnis digital dan entrepreneurship."
+        }
+      ]
+    },
+    {
+      "id": "game-technology",
+      "nama": "Game Technology",
+      "nama_inggris": "Game Development & Technology",
+      "icon": "gamepad",
+      "color": "#ec4899",
+      "deskripsi_singkat": "Mengembangkan game dan aplikasi multimedia dengan teknologi terkini",
+      "deskripsi_lengkap": "Konsentrasi Game Technology membekali mahasiswa dengan skill game development, 3D modeling, animation, VR/AR, dan multimedia interactive. Fokus pada creative technology untuk entertainment industry.",
+      "keunggulan": [
+        "Lab Game dengan peralatan modern",
+        "VR/AR Development Facilities",
+        "Game jam & competition regular",
+        "Publishing games di Steam & Play Store",
+        "Kolaborasi dengan game studio"
+      ],
+      "mata_kuliah_unggulan": [
+        "Game Design & Development",
+        "3D Modeling & Animation",
+        "Virtual Reality",
+        "Augmented Reality",
+        "Game Engine (Unity, Unreal)",
+        "Mobile Game Development",
+        "Game AI & Physics",
+        "Immersive Technology"
+      ],
+      "career_paths": [
+        {
+          "title": "Game Developer",
+          "salary_range": "8-16 juta",
+          "companies": ["Agate", "Toge Productions", "Gambir Studio"]
+        },
+        {
+          "title": "3D Artist/Animator",
+          "salary_range": "7-15 juta",
+          "companies": ["Animation Studio", "Game Company"]
+        },
+        {
+          "title": "VR/AR Developer",
+          "salary_range": "10-20 juta",
+          "companies": ["Tech Startup", "Digital Agency"]
+        },
+        {
+          "title": "Game Designer",
+          "salary_range": "9-18 juta",
+          "companies": ["Game Studio", "Creative Agency"]
+        },
+        {
+          "title": "Indie Game Developer",
+          "salary_range": "5-50 juta+",
+          "companies": ["Own Studio", "Freelance"]
+        }
+      ],
+      "alumni_success": [
+        {
+          "nama": "Yedija Prima",
+          "angkatan": "2013",
+          "posisi": "Game Developer",
+          "perusahaan": "Gaming Company",
+          "testimony": "SIEGA Game Tech memberikan pengalaman hands-on yang tidak terlupakan dalam membuat game."
+        }
+      ]
+    },
+    {
+      "id": "akuntansi-si",
+      "nama": "Akuntansi-Sistem Informasi",
+      "nama_inggris": "Accounting & Information Systems",
+      "icon": "calculator",
+      "color": "#f97316",
+      "deskripsi_singkat": "Double degree - Menguasai akuntansi dan sistem informasi secara bersamaan",
+      "deskripsi_lengkap": "Konsentrasi unik yang menghasilkan lulusan dengan kompetensi ganda: akuntansi profesional dan teknologi informasi. Mahasiswa mendapat 2 gelar (S.Kom dan S.Ak) dalam waktu yang lebih efisien.",
+      "keunggulan": [
+        "Double degree dalam 4.5 tahun",
+        "Lulusan siap ujian profesi akuntan",
+        "Expertise dalam accounting software",
+        "Career versatility tinggi",
+        "Kombinasi skill yang highly demanded"
+      ],
+      "mata_kuliah_unggulan": [
+        "Accounting Information Systems",
+        "Financial Accounting",
+        "Management Accounting",
+        "Taxation",
+        "Auditing",
+        "ERP for Accounting",
+        "Blockchain for Finance",
+        "Business Analytics"
+      ],
+      "career_paths": [
+        {
+          "title": "IT Auditor",
+          "salary_range": "12-25 juta",
+          "companies": ["PwC", "KPMG", "Deloitte", "EY"]
+        },
+        {
+          "title": "Financial Analyst",
+          "salary_range": "10-20 juta",
+          "companies": ["Bank", "Investment Company"]
+        },
+        {
+          "title": "ERP Consultant (Finance)",
+          "salary_range": "15-30 juta",
+          "companies": ["SAP", "Oracle", "Microsoft"]
+        },
+        {
+          "title": "Management Accountant",
+          "salary_range": "9-18 juta",
+          "companies": ["Multinational Companies"]
+        },
+        {
+          "title": "Fintech Specialist",
+          "salary_range": "11-22 juta",
+          "companies": ["OVO", "Dana", "Gopay"]
+        }
+      ],
+      "alumni_success": [
+        {
+          "nama": "Maria Kristina",
+          "angkatan": "2017",
+          "posisi": "IT Auditor",
+          "perusahaan": "Deloitte Indonesia",
+          "testimony": "Double degree membuat saya lebih competitive di job market. Investasi terbaik!"
+        }
+      ]
+    }
+  ]
+}

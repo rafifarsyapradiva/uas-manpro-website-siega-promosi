@@ -1,0 +1,149 @@
+{
+  "kegiatan": [
+    {
+      "id": 1,
+      "judul": "Internship Fair & Digital Talent War 2024",
+      "kategori": "Career",
+      "tanggal": "2024-11-26",
+      "waktu": "09.00 - 16.00 WIB",
+      "lokasi": "Theater Thomas Aquinas, Unika Soegijapranata",
+      "pembicara": [
+        {
+          "nama": "HRD & Tech Leads",
+          "jabatan": "Mitra Industri",
+          "perusahaan": "Multi-National Companies"
+        }
+      ],
+      "deskripsi": "Ajang pertemuan mahasiswa dengan perusahaan teknologi terkemuka untuk peluang magang dan karir. Menghadirkan sesi presentasi perusahaan dan walk-in interview.",
+      "status": "Selesai",
+      "kuota": 200,
+      "biaya": "Gratis",
+      "target_peserta": "Mahasiswa Tingkat Akhir & Alumni",
+      "gambar": "internship_fair.jpg"
+    },
+    {
+      "id": 2,
+      "judul": "Kuliah Tamu: Pemasaran Digital & Data Sains",
+      "kategori": "Kuliah Tamu",
+      "tanggal": "2024-11-05",
+      "waktu": "10.00 - 12.00 WIB",
+      "lokasi": "Ruang Theater, Gedung Henricus Constant",
+      "pembicara": [
+        {
+          "nama": "Dr. Nana Storada",
+          "jabatan": "Praktisi Data Sains & Digital Marketing",
+          "foto": "nana_storada.jpg"
+        }
+      ],
+      "deskripsi": "Membahas strategi pemasaran digital berbasis data menggunakan tools analitik seperti Brand24. Mahasiswa diajak memahami pola perilaku konsumen melalui data sains.",
+      "status": "Selesai",
+      "kuota": 60,
+      "biaya": "Gratis",
+      "materi": [
+        "Digital Marketing Strategy",
+        "Social Media Listening",
+        "Data-Driven Decision Making"
+      ],
+      "target_peserta": "Mahasiswa Mata Kuliah Pemasaran Digital"
+    },
+    {
+      "id": 3,
+      "judul": "SIEGA E-Sports Championship 2025",
+      "kategori": "Kompetisi",
+      "tanggal": "2025-02-15 s/d 2025-02-17",
+      "waktu": "09.00 - Selesai",
+      "lokasi": "Gedung Albertus & Online Stream",
+      "penyelenggara": "Himpunan Mahasiswa Sistem Informasi (Himsisfo)",
+      "deskripsi": "Turnamen E-Sports tahunan terbesar di Fakultas Ilmu Komputer. Cabang lomba: Mobile Legends, Valorant, dan FIFA. Ajang unjuk bakat dan sportivitas mahasiswa.",
+      "status": "Akan Datang",
+      "kuota": 32,
+      "biaya": "Rp 50.000 / Tim",
+      "registrasi": "https://bit.ly/siega-esports-2025",
+      "hadiah": [
+        "Total Prize Pool: Rp 5.000.000",
+        "Piala Bergilir SIEGA",
+        "Sertifikat Juara"
+      ],
+      "target_peserta": "Mahasiswa Aktif Unika Soegijapranata"
+    },
+    {
+      "id": 4,
+      "judul": "Seminar Nasional: AI for Future Business",
+      "kategori": "Seminar",
+      "tanggal": "2025-03-10",
+      "waktu": "08.30 - 13.00 WIB",
+      "lokasi": "Auditorium Unika Soegijapranata",
+      "pembicara": [
+        {
+          "nama": "Pakar AI Nasional",
+          "jabatan": "AI Researcher",
+          "perusahaan": "BRIN"
+        },
+        {
+          "nama": "CEO Tech Startup",
+          "jabatan": "Industry Expert",
+          "perusahaan": "Unicorn Startup"
+        }
+      ],
+      "deskripsi": "Seminar yang mengupas tuntas implementasi Artificial Intelligence dalam mentransformasi model bisnis masa depan. Wajib bagi mahasiswa yang ingin memahami tren teknologi 5.0.",
+      "status": "Akan Datang",
+      "kuota": 300,
+      "biaya": "Rp 35.000 (Early Bird)",
+      "registrasi": "https://bit.ly/semnas-siega-2025",
+      "materi": [
+        "Generative AI in Business",
+        "AI Ethics",
+        "Future Job Landscape"
+      ],
+      "target_peserta": "Umum & Mahasiswa"
+    },
+    {
+      "id": 5,
+      "judul": "Kunjungan Industri: Jakarta Smart City",
+      "kategori": "Kunjungan Industri",
+      "tanggal": "2025-05-20 s/d 2025-05-23",
+      "waktu": "4 Hari 3 Malam",
+      "lokasi": "Jakarta & Bandung",
+      "deskripsi": "Kegiatan tahunan mengunjungi perusahaan teknologi top-tier (Unicorn) dan instansi pemerintah yang menerapkan Smart City untuk melihat langsung implementasi sistem informasi di dunia kerja.",
+      "status": "Akan Datang",
+      "kuota": 80,
+      "biaya": "Rp 1.800.000 (All in)",
+      "registrasi": "Hubungi Sekretariat Prodi",
+      "agenda": [
+        "Visit Jakarta Smart City Lounge",
+        "Office Tour Tokopedia/Gojek",
+        "Sharing Session Alumni di Jakarta",
+        "City Tour"
+      ],
+      "target_peserta": "Mahasiswa Semester 4 & 6"
+    },
+    {
+      "id": 6,
+      "judul": "Peluncuran Buku Karya Mahasiswa: Kreativitas Digital",
+      "kategori": "Akademik",
+      "tanggal": "2024-12-20",
+      "waktu": "13.00 WIB",
+      "lokasi": "Google Play Books & SIEGA.ID",
+      "deskripsi": "Peluncuran koleksi E-Book hasil karya mahasiswa mata kuliah Penulisan Kreatif dan Literasi Digital. Membuktikan kompetensi mahasiswa dalam menuangkan ide teknologi ke dalam tulisan.",
+      "status": "Akan Datang",
+      "kuota": "Unlimited",
+      "biaya": "Gratis (Digital Download)",
+      "link_download": "https://play.google.com/store/books",
+      "target_peserta": "Umum"
+    },
+    {
+      "id": 7,
+      "judul": "Workshop: Computational Thinking untuk Guru",
+      "kategori": "Pengabdian Masyarakat",
+      "tanggal": "2024-10-15",
+      "waktu": "08.00 - 14.00 WIB",
+      "lokasi": "Lab Komputer SIEGA",
+      "deskripsi": "Pelatihan berpikir komputasional bagi guru-guru SMA/SMK se-Jawa Tengah sebagai bentuk pengabdian masyarakat dosen dan mahasiswa SIEGA.",
+      "status": "Selesai",
+      "kuota": 40,
+      "biaya": "Gratis (Undangan)",
+      "output": "Sertifikat Pelatihan 32 JP",
+      "target_peserta": "Guru TIK SMA/SMK"
+    }
+  ]
+}

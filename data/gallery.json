@@ -1,0 +1,244 @@
+{
+    "gallery": [
+        {
+            "id": 1,
+            "judul": "VR History Indonesia - Educational Game",
+            "kategori": "Game Project",
+            "konsentrasi": "Game Technology",
+            "pembuat": [
+                "Kevin Pratama",
+                "Jessica Tanuwijaya",
+                "Stefanus William"
+            ],
+            "angkatan": "2020",
+            "tahun": "2024",
+            "deskripsi": "Game edukasi berbasis Virtual Reality yang menghadirkan pengalaman immersive tentang sejarah Indonesia. Player bisa explore peristiwa proklamasi kemerdekaan dalam 360° environment.",
+            "teknologi": [
+                "Unity 3D",
+                "Oculus SDK",
+                "C#",
+                "Blender",
+                "Photon Networking"
+            ],
+            "platform": "Meta Quest 2",
+            "achievement": "Winner Best Educational Game 2024",
+            "gambar_thumbnail": "https:\/\/siega.id\/assets\/images\/gallery\/vr-history.jpg",
+            "gambar_detail": [
+                "https:\/\/siega.id\/assets\/images\/gallery\/vr-history-1.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/vr-history-2.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/vr-history-3.jpg"
+            ],
+            "video_demo": "https:\/\/youtube.com\/watch?v=demo123",
+            "github": "https:\/\/github.com\/siega\/vr-history",
+            "play_store": null
+        },
+        {
+            "id": 2,
+            "judul": "SmartShop - AI-Powered E-Commerce Platform",
+            "kategori": "Web Application",
+            "konsentrasi": "E-Commerce",
+            "pembuat": [
+                "Maria Stefani",
+                "Rizky Adiputra",
+                "Alexander Chen"
+            ],
+            "angkatan": "2021",
+            "tahun": "2024",
+            "deskripsi": "Platform e-commerce dengan AI recommendation system yang dapat memprediksi preferensi user dan memberikan product suggestions dengan akurasi tinggi. Dilengkapi chatbot customer service dan analytics dashboard.",
+            "teknologi": [
+                "React.js",
+                "Node.js",
+                "MongoDB",
+                "TensorFlow.js",
+                "Stripe Payment"
+            ],
+            "platform": "Web (Responsive)",
+            "achievement": "Juara 1 National Hackathon 2024",
+            "gambar_thumbnail": "https:\/\/siega.id\/assets\/images\/gallery\/smartshop.jpg",
+            "gambar_detail": [
+                "https:\/\/siega.id\/assets\/images\/gallery\/smartshop-1.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/smartshop-2.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/smartshop-3.jpg"
+            ],
+            "video_demo": "https:\/\/youtube.com\/watch?v=demo456",
+            "github": "https:\/\/github.com\/siega\/smartshop",
+            "live_demo": "https:\/\/smartshop-demo.vercel.app"
+        },
+        {
+            "id": 3,
+            "judul": "CloudBooks - Cloud Accounting SaaS",
+            "kategori": "Web Application",
+            "konsentrasi": "Akuntansi-SI",
+            "pembuat": [
+                "Angelina Putri",
+                "Catherine Wijaya"
+            ],
+            "angkatan": "2020",
+            "tahun": "2024",
+            "deskripsi": "Cloud-based accounting system untuk UMKM dengan fitur automated bookkeeping, invoicing, payment gateway integration, dan financial reporting. Multi-user access dengan role management.",
+            "teknologi": [
+                "Laravel",
+                "Vue.js",
+                "PostgreSQL",
+                "Midtrans Payment",
+                "AWS"
+            ],
+            "platform": "Web (SaaS)",
+            "achievement": "Digunakan oleh 50+ UMKM di Semarang",
+            "gambar_thumbnail": "https:\/\/siega.id\/assets\/images\/gallery\/cloudbooks.jpg",
+            "gambar_detail": [
+                "https:\/\/siega.id\/assets\/images\/gallery\/cloudbooks-1.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/cloudbooks-2.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/cloudbooks-3.jpg"
+            ],
+            "video_demo": "https:\/\/youtube.com\/watch?v=demo789",
+            "github": null,
+            "live_demo": "https:\/\/cloudbooks.id"
+        },
+        {
+            "id": 4,
+            "judul": "ERP Manufacturing - Production Management",
+            "kategori": "Enterprise System",
+            "konsentrasi": "Sistem Informasi",
+            "pembuat": [
+                "Jonathan Kurniawan",
+                "David Santoso",
+                "Yohanes Surya"
+            ],
+            "angkatan": "2019",
+            "tahun": "2023",
+            "deskripsi": "Sistem ERP terintegrasi untuk perusahaan manufaktur dengan modul production planning, inventory management, quality control, dan financial reporting. Dashboard analytics real-time.",
+            "teknologi": [
+                "PHP Native",
+                "MySQL",
+                "Chart.js",
+                "Bootstrap",
+                "FPDF"
+            ],
+            "platform": "Web (Desktop)",
+            "achievement": "Implemented at PT Indofood Semarang",
+            "gambar_thumbnail": "https:\/\/siega.id\/assets\/images\/gallery\/erp-manufacturing.jpg",
+            "gambar_detail": [
+                "https:\/\/siega.id\/assets\/images\/gallery\/erp-1.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/erp-2.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/erp-3.jpg"
+            ],
+            "video_demo": "https:\/\/youtube.com\/watch?v=demo101",
+            "github": null,
+            "live_demo": null
+        },
+        {
+            "id": 5,
+            "judul": "Cyber Guardian - Mobile Puzzle Game",
+            "kategori": "Game Development",
+            "konsentrasi": "",
+            "pembuat": "Yedija Prima,Jessica Tanuwijaya",
+            "tahun": "2019",
+            "deskripsi": "Physics-based puzzle game dengan tema cybersecurity. Player harus solve puzzle untuk protect system dari cyber threats. 50+ levels dengan increasing difficulty.",
+            "teknologi": [
+                "Unity",
+                "C#",
+                "Unity Physics",
+                "Google Play Services"
+            ],
+            "gambar": "",
+            "link_demo": "",
+            "link_github": "",
+            "featured": false
+        },
+        {
+            "id": 6,
+            "judul": "AR Interior Design - Mobile App",
+            "kategori": "Mobile App",
+            "konsentrasi": "Game Technology",
+            "pembuat": [
+                "Stefanus William",
+                "Kevin Pratama"
+            ],
+            "angkatan": "2018",
+            "tahun": "2023",
+            "deskripsi": "Aplikasi AR untuk visualisasi furniture dan dekorasi interior rumah. User bisa place 3D models di ruangan real melalui camera smartphone. Library 100+ furniture models.",
+            "teknologi": [
+                "Unity",
+                "ARCore",
+                "ARKit",
+                "C#",
+                "Vuforia"
+            ],
+            "platform": "Android & iOS",
+            "achievement": "Featured in Google Play Store",
+            "gambar_thumbnail": "https:\/\/siega.id\/assets\/images\/gallery\/ar-interior.jpg",
+            "gambar_detail": [
+                "https:\/\/siega.id\/assets\/images\/gallery\/ar-1.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/ar-2.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/ar-3.jpg"
+            ],
+            "video_demo": "https:\/\/youtube.com\/watch?v=demo113",
+            "github": null,
+            "play_store": "https:\/\/play.google.com\/store\/apps\/details?id=com.siega.arinterior"
+        },
+        {
+            "id": 7,
+            "judul": "TokoPintar - Marketplace UMKM",
+            "kategori": "Web Application",
+            "konsentrasi": "E-Commerce",
+            "pembuat": [
+                "Maxine Olexa",
+                "Alexander Chen",
+                "Rizky Adiputra"
+            ],
+            "angkatan": "2020",
+            "tahun": "2023",
+            "deskripsi": "Marketplace khusus untuk produk UMKM lokal Semarang. Dilengkapi fitur live chat, rating & review, multiple payment methods, dan logistics integration dengan JNE & JNT.",
+            "teknologi": [
+                "CodeIgniter",
+                "MySQL",
+                "jQuery",
+                "Bootstrap",
+                "Midtrans"
+            ],
+            "platform": "Web (Responsive)",
+            "achievement": "200+ UMKM terdaftar",
+            "gambar_thumbnail": "https:\/\/siega.id\/assets\/images\/gallery\/tokopintar.jpg",
+            "gambar_detail": [
+                "https:\/\/siega.id\/assets\/images\/gallery\/toko-1.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/toko-2.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/toko-3.jpg"
+            ],
+            "video_demo": "https:\/\/youtube.com\/watch?v=demo114",
+            "github": "https:\/\/github.com\/siega\/tokopintar",
+            "live_demo": "https:\/\/tokopintar.siega.id"
+        },
+        {
+            "id": 8,
+            "judul": "SmartLibrary - QR Code System",
+            "kategori": "Web Application",
+            "konsentrasi": "Sistem Informasi",
+            "pembuat": [
+                "Jonathan Kurniawan",
+                "Maria Stefani"
+            ],
+            "angkatan": "2021",
+            "tahun": "2024",
+            "deskripsi": "Sistem manajemen perpustakaan digital dengan QR Code untuk peminjaman dan pengembalian buku. Notifikasi otomatis untuk due date dan denda. Dashboard analytics untuk librarian.",
+            "teknologi": [
+                "PHP",
+                "MySQL",
+                "QR Code Library",
+                "Bootstrap",
+                "AJAX"
+            ],
+            "platform": "Web (Desktop & Mobile)",
+            "achievement": "Implemented at 3 university libraries",
+            "gambar_thumbnail": "https:\/\/siega.id\/assets\/images\/gallery\/smartlibrary.jpg",
+            "gambar_detail": [
+                "https:\/\/siega.id\/assets\/images\/gallery\/library-1.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/library-2.jpg",
+                "https:\/\/siega.id\/assets\/images\/gallery\/library-3.jpg"
+            ],
+            "video_demo": "https:\/\/youtube.com\/watch?v=demo115",
+            "github": "https:\/\/github.com\/siega\/smartlibrary",
+            "live_demo": null
+        }
+    ]
+}

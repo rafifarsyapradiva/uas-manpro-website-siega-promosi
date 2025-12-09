@@ -498,20 +498,20 @@ session_start();
 ## 📞 Support & Contact
 
 Untuk pertanyaan atau bantuan:
-- **Email:** contact@siega.id
-- **GitHub Issues:** [Create Issue](https://github.com/rafifarsyapradiva/uas-manpro-website-siega-promosi/issues)
+- **Email:** rafif.arsya.pradiva@gmail.com
+- **GitHub Issues:** (https://github.com/rafifarsyapradiva/uas-manpro-website-siega-promosi/issues)
 
 ---
 
 ## 📄 License
 
-Project ini dibuat untuk keperluan akademik - UAS Manajemen Project
+Project ini dibuat untuk keperluan akademik - UAS Manajemen Projek
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Dosen Pengampu: [Nama Dosen]
+- Dosen Pengampu: Bu Brenda
 - SIEGA Program Studi
 - Semua kontributor dan tim pengembang
 

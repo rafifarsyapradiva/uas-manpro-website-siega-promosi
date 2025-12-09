@@ -15,7 +15,13 @@ Website promosi modern untuk program studi SIEGA (Sistem Informasi, E-Commerce, 
 - **Repository:** [https://github.com/rafifarsyapradiva/uas-manpro-website-siega-promosi](https://github.com/rafifarsyapradiva/uas-manpro-website-siega-promosi)
 
 ---
+---
 
+##  Cara membuka Project
+
+- **Localhost:** http://localhost/siega-modern/index.php
+
+---
 ## 🎨 Design System
 
 ### Konsep Desain

@@ -499,13 +499,13 @@ session_start();
 
 Untuk pertanyaan atau bantuan:
 - **Email:** rafif.arsya.pradiva@gmail.com
-- **GitHub Issues:** [Create Issue](https://github.com/rafifarsyapradiva/uas-manpro-website-siega-promosi/issues)
+- **GitHub Issues:** (https://github.com/rafifarsyapradiva/uas-manpro-website-siega-promosi/issues)
 
 ---
 
 ## 📄 License
 
-Project ini dibuat untuk keperluan akademik - UAS Manajemen Project
+Project ini dibuat untuk keperluan akademik - UAS Manajemen Projek
 
 ---
 

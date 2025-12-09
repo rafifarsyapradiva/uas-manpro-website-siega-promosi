@@ -1,0 +1,41 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "nama_lengkap": "Administrator SIEGA",
+      "email": "admin@siega.id",
+      "role": "super_admin",
+      "foto": "https://siega.id/assets/images/admin/admin-avatar.jpg",
+      "created_at": "2024-01-01",
+      "last_login": "2024-12-07",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "username": "ridwan",
+      "password": "ridwan2024",
+      "nama_lengkap": "Prof. Dr. Ridwan Sanjaya",
+      "email": "ridwan@unika.ac.id",
+      "role": "admin",
+      "foto": "https://siega.id/assets/images/dosen/ridwan-sanjaya.jpg",
+      "created_at": "2024-01-15",
+      "last_login": "2024-12-06",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "username": "harnadi",
+      "password": "harnadi2024",
+      "nama_lengkap": "Dr. Bernadinus Harnadi",
+      "email": "harnadi@unika.ac.id",
+      "role": "admin",
+      "foto": "https://siega.id/assets/images/dosen/harnadi.jpg",
+      "created_at": "2024-01-20",
+      "last_login": "2024-12-05",
+      "status": "active"
+    }
+  ],
+  "catatan": "Password di-hash dengan md5() atau password_hash() di implementasi PHP real. Ini hanya sample data untuk development."
+}

@@ -1,0 +1,520 @@
+{
+  "kurikulum": {
+    "semester_dasar": {
+      "semester_1": [
+        {
+          "kode": "SI101",
+          "nama": "Pengantar Sistem Informasi",
+          "sks": 3,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI102",
+          "nama": "Algoritma & Pemrograman",
+          "sks": 4,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI103",
+          "nama": "Matematika Diskrit",
+          "sks": 3,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI104",
+          "nama": "Pengantar Teknologi Informasi",
+          "sks": 3,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "UNI101",
+          "nama": "Bahasa Indonesia",
+          "sks": 2,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "UNI102",
+          "nama": "Pancasila",
+          "sks": 2,
+          "kategori": "Wajib"
+        }
+      ],
+      "semester_2": [
+        {
+          "kode": "SI201",
+          "nama": "Struktur Data",
+          "sks": 4,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI202",
+          "nama": "Database Systems",
+          "sks": 4,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI203",
+          "nama": "Statistika",
+          "sks": 3,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI204",
+          "nama": "Web Programming Dasar",
+          "sks": 3,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "UNI201",
+          "nama": "Bahasa Inggris",
+          "sks": 2,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "UNI202",
+          "nama": "Kewarganegaraan",
+          "sks": 2,
+          "kategori": "Wajib"
+        }
+      ],
+      "semester_3": [
+        {
+          "kode": "SI301",
+          "nama": "Pemrograman Berorientasi Objek",
+          "sks": 4,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI302",
+          "nama": "Sistem Operasi",
+          "sks": 3,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI303",
+          "nama": "Analisis & Perancangan Sistem",
+          "sks": 4,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI304",
+          "nama": "Jaringan Komputer",
+          "sks": 3,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI305",
+          "nama": "Manajemen & Organisasi",
+          "sks": 3,
+          "kategori": "Wajib"
+        }
+      ],
+      "semester_4": [
+        {
+          "kode": "SI401",
+          "nama": "Software Engineering",
+          "sks": 3,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI402",
+          "nama": "Mobile Programming",
+          "sks": 4,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI403",
+          "nama": "Human-Computer Interaction",
+          "sks": 3,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI404",
+          "nama": "Pengantar 4 Konsentrasi",
+          "sks": 3,
+          "kategori": "Wajib"
+        },
+        {
+          "kode": "SI405",
+          "nama": "Metodologi Penelitian",
+          "sks": 3,
+          "kategori": "Wajib"
+        }
+      ]
+    },
+    "konsentrasi": {
+      "sistem_informasi": {
+        "semester_5": [
+          {
+            "kode": "SIS501",
+            "nama": "Enterprise Resource Planning",
+            "sks": 4,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SIS502",
+            "nama": "Business Intelligence",
+            "sks": 4,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SIS503",
+            "nama": "Data Analytics",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SI501",
+            "nama": "IT Project Management",
+            "sks": 3,
+            "kategori": "Wajib"
+          }
+        ],
+        "semester_6": [
+          {
+            "kode": "SIS601",
+            "nama": "Customer Relationship Management",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SIS602",
+            "nama": "Cloud Computing",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SIS603",
+            "nama": "IT Governance & Audit",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SIS604",
+            "nama": "Cyber Security",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          }
+        ],
+        "semester_7": [
+          {
+            "kode": "SIS701",
+            "nama": "Big Data Technology",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SIS702",
+            "nama": "Business Process Management",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SI701",
+            "nama": "KKN (Kuliah Kerja Nyata)",
+            "sks": 3,
+            "kategori": "Wajib"
+          },
+          {
+            "kode": "SIS703",
+            "nama": "Pilihan Konsentrasi",
+            "sks": 3,
+            "kategori": "Pilihan"
+          }
+        ],
+        "semester_8": [
+          {
+            "kode": "SI801",
+            "nama": "Skripsi",
+            "sks": 6,
+            "kategori": "Wajib"
+          }
+        ]
+      },
+      "e_commerce": {
+        "semester_5": [
+          {
+            "kode": "EC501",
+            "nama": "E-Commerce Strategy",
+            "sks": 4,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "EC502",
+            "nama": "Digital Marketing",
+            "sks": 4,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "EC503",
+            "nama": "Online Consumer Behavior",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SI501",
+            "nama": "IT Project Management",
+            "sks": 3,
+            "kategori": "Wajib"
+          }
+        ],
+        "semester_6": [
+          {
+            "kode": "EC601",
+            "nama": "Payment Systems & Fintech",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "EC602",
+            "nama": "Social Media Marketing",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "EC603",
+            "nama": "SEO & SEM",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "EC604",
+            "nama": "Supply Chain Management",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          }
+        ],
+        "semester_7": [
+          {
+            "kode": "EC701",
+            "nama": "Marketplace & Platform Economy",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "EC702",
+            "nama": "E-Commerce Analytics",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SI701",
+            "nama": "KKN (Kuliah Kerja Nyata)",
+            "sks": 3,
+            "kategori": "Wajib"
+          },
+          {
+            "kode": "EC703",
+            "nama": "Pilihan Konsentrasi",
+            "sks": 3,
+            "kategori": "Pilihan"
+          }
+        ],
+        "semester_8": [
+          {
+            "kode": "SI801",
+            "nama": "Skripsi",
+            "sks": 6,
+            "kategori": "Wajib"
+          }
+        ]
+      },
+      "game_technology": {
+        "semester_5": [
+          {
+            "kode": "GT501",
+            "nama": "Game Design & Development",
+            "sks": 4,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "GT502",
+            "nama": "3D Modeling & Animation",
+            "sks": 4,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "GT503",
+            "nama": "Game Engine (Unity)",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SI501",
+            "nama": "IT Project Management",
+            "sks": 3,
+            "kategori": "Wajib"
+          }
+        ],
+        "semester_6": [
+          {
+            "kode": "GT601",
+            "nama": "Virtual Reality Programming",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "GT602",
+            "nama": "Augmented Reality",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "GT603",
+            "nama": "Mobile Game Development",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "GT604",
+            "nama": "Game AI & Physics",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          }
+        ],
+        "semester_7": [
+          {
+            "kode": "GT701",
+            "nama": "Advanced Game Engine (Unreal)",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "GT702",
+            "nama": "Immersive Technology",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SI701",
+            "nama": "KKN (Kuliah Kerja Nyata)",
+            "sks": 3,
+            "kategori": "Wajib"
+          },
+          {
+            "kode": "GT703",
+            "nama": "Pilihan Konsentrasi",
+            "sks": 3,
+            "kategori": "Pilihan"
+          }
+        ],
+        "semester_8": [
+          {
+            "kode": "SI801",
+            "nama": "Skripsi",
+            "sks": 6,
+            "kategori": "Wajib"
+          }
+        ]
+      },
+      "akuntansi_si": {
+        "semester_5": [
+          {
+            "kode": "AK501",
+            "nama": "Financial Accounting 1",
+            "sks": 4,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "AK502",
+            "nama": "Accounting Information Systems",
+            "sks": 4,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "AK503",
+            "nama": "Cost Accounting",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SI501",
+            "nama": "IT Project Management",
+            "sks": 3,
+            "kategori": "Wajib"
+          }
+        ],
+        "semester_6": [
+          {
+            "kode": "AK601",
+            "nama": "Financial Accounting 2",
+            "sks": 4,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "AK602",
+            "nama": "Management Accounting",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "AK603",
+            "nama": "Taxation",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "AK604",
+            "nama": "ERP for Accounting",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          }
+        ],
+        "semester_7": [
+          {
+            "kode": "AK701",
+            "nama": "Auditing",
+            "sks": 4,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "AK702",
+            "nama": "IT Audit",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "SI701",
+            "nama": "KKN (Kuliah Kerja Nyata)",
+            "sks": 3,
+            "kategori": "Wajib"
+          },
+          {
+            "kode": "AK703",
+            "nama": "Blockchain for Finance",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          }
+        ],
+        "semester_8": [
+          {
+            "kode": "AK801",
+            "nama": "Advanced Financial Accounting",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "AK802",
+            "nama": "Accounting Theory",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          },
+          {
+            "kode": "AK803",
+            "nama": "Internship Accounting",
+            "sks": 3,
+            "kategori": "Konsentrasi"
+          }
+        ],
+        "semester_9": [
+          {
+            "kode": "AK901",
+            "nama": "Skripsi Double Degree",
+            "sks": 6,
+            "kategori": "Wajib"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "berita": [
+    {
+      "id": 1,
+      "judul": "Mahasiswa SIEGA Raih Juara 1 National Hackathon 2024",
+      "slug": "juara-national-hackathon-2024",
+      "kategori": "Prestasi",
+      "tanggal": "2024-11-28",
+      "gambar": "https://siega.id/assets/images/berita/hackathon-winner.jpg",
+      "ringkasan": "Tim SIEGA Warriors mengalahkan 50+ tim dari seluruh Indonesia dengan solusi AI-powered e-commerce analytics platform di Indonesian Tech Conference.",
+      "konten": "Semarang - Tim mahasiswa SIEGA yang terdiri dari Kevin Pratama, Maria Stefani, dan Rizky Adiputra berhasil meraih juara 1 National Hackathon 2024 yang diselenggarakan oleh Indonesian Tech Conference.\n\nTim ini berhasil mengembangkan platform analytics e-commerce berbasis AI yang dapat memprediksi trend penjualan dengan akurasi 87%. Solusi mereka dinilai paling inovatif dan applicable untuk industri e-commerce Indonesia.\n\nKetua tim, Kevin Pratama mengatakan, \"Pembelajaran di SIEGA khususnya di konsentrasi E-Commerce dan Sistem Informasi sangat membantu kami dalam mengembangkan solusi ini. Dosen pembimbing kami, Prof. Dr. Ridwan Sanjaya, juga sangat supportive.\"\n\nTim ini membawa pulang hadiah Rp 25 juta dan kesempatan inkubasi startup di Jakarta.\n\nKepala Program Studi SIEGA, Prof. Dr. Ridwan Sanjaya mengapresiasi prestasi tim ini dan mengajak mahasiswa lain untuk aktif mengikuti kompetisi serupa.",
+      "penulis": "Tim Humas SIEGA",
+      "tags": ["prestasi", "hackathon", "mahasiswa", "kompetisi"],
+      "views": 567,
+      "status": "published"
+    },
+    {
+      "id": 2,
+      "judul": "SIEGA Jalin Kerja Sama dengan Gojek untuk Program MBKM",
+      "slug": "kerja-sama-gojek-mbkm",
+      "kategori": "Kerja Sama",
+      "tanggal": "2024-11-22",
+      "gambar": "https://siega.id/assets/images/berita/mou-gojek.jpg",
+      "ringkasan": "Program Studi SIEGA menandatangani MoU dengan Gojek Indonesia untuk program Merdeka Belajar Kampus Merdeka (MBKM) yang membuka 20 slot magang mahasiswa.",
+      "konten": "Semarang - Program Studi Sistem Informasi Unika Soegijapranata (SIEGA) menandatangani Memorandum of Understanding (MoU) dengan PT Aplikasi Karya Anak Bangsa (Gojek) pada Rabu, 20 November 2024.\n\nKerja sama ini membuka kesempatan bagi 20 mahasiswa SIEGA untuk magang selama 5 bulan di berbagai divisi Gojek seperti Product, Engineering, Data, dan Business Intelligence.\n\n\"Ini adalah milestone penting untuk SIEGA. Gojek adalah salah satu unicorn terbesar di Indonesia dan kesempatan ini akan sangat berharga untuk mahasiswa,\" ujar Prof. Dr. Ridwan Sanjaya.\n\nDirector of People Operations Gojek, Bapak Ahmad Zaki, menyampaikan bahwa mahasiswa SIEGA memiliki kualitas yang baik dan sesuai dengan kebutuhan industri.\n\nPendaftaran program MBKM ini akan dibuka mulai Januari 2025 untuk mahasiswa semester 5 dan 6 dengan requirement IPK minimal 3.00 dan portofolio project.\n\nSelain Gojek, SIEGA juga telah menjalin kerja sama serupa dengan Tokopedia, Shopee, dan Traveloka untuk program magang dan recruitment.",
+      "penulis": "Tim Humas SIEGA",
+      "tags": ["kerja sama", "MBKM", "magang", "gojek"],
+      "views": 892,
+      "status": "published"
+    },
+    {
+      "id": 3,
+      "judul": "Dosen SIEGA Presentasi Paper di Conference Internasional Jepang",
+      "slug": "dosen-presentasi-jepang",
+      "kategori": "Akademik",
+      "tanggal": "2024-11-18",
+      "gambar": "https://siega.id/assets/images/berita/conference-japan.jpg",
+      "ringkasan": "Dr. Bernadinus Harnadi dan tim mempresentasikan penelitian tentang Blockchain in Supply Chain Management di InCIT Conference Tokyo, Jepang.",
+      "konten": "Tokyo, Jepang - Dr. Bernadinus Harnadi, S.T., M.T. bersama 3 mahasiswa SIEGA menghadiri International Centre for Industrial Transformation (InCIT) Conference 2024 di Tokyo, Jepang pada 15-17 November 2024.\n\nPaper mereka yang berjudul \"Implementation of Blockchain Technology in E-Commerce Supply Chain Management\" mendapat Best Paper Award dari panitia conference.\n\nPenelitian ini membahas implementasi blockchain untuk meningkatkan transparency dan security dalam supply chain e-commerce. Penelitian ini dilakukan bersama dengan Maria Stefani (mahasiswa angkatan 2021) yang kini sedang menyelesaikan skripsi dengan topik serupa.\n\n\"Ini adalah pengalaman luar biasa. Kami bisa belajar dari researcher internasional dan networking dengan universitas dari berbagai negara,\" ujar Maria.\n\nPaper ini telah dipublikasikan di jurnal terindeks Scopus dengan citation count mencapai 15 dalam 6 bulan.\n\nSIEGA secara rutin mengirimkan dosen dan mahasiswa ke conference internasional sebagai bagian dari pengembangan riset dan publikasi ilmiah.",
+      "penulis": "Tim Humas SIEGA",
+      "tags": ["penelitian", "conference", "internasional", "blockchain"],
+      "views": 423,
+      "status": "published"
+    },
+    {
+      "id": 4,
+      "judul": "Pendaftaran Mahasiswa Baru SIEGA 2025 Dibuka!",
+      "slug": "pendaftaran-mahasiswa-baru-2025",
+      "kategori": "Penerimaan",
+      "tanggal": "2024-11-15",
+      "gambar": "https://siega.id/assets/images/berita/pmb-2025.jpg",
+      "ringkasan": "Universitas Katolik Soegijapranata membuka pendaftaran mahasiswa baru untuk Program Studi SIEGA tahun akademik 2025/2026 dengan berbagai jalur masuk dan beasiswa.",
+      "konten": "Semarang - Penerimaan Mahasiswa Baru (PMB) Unika Soegijapranata tahun 2025 resmi dibuka mulai 1 Desember 2024 untuk program SIEGA (Sistem Informasi, E-Commerce, Game Technology, Akuntansi-SI).\n\n## Jalur Penerimaan:\n1. **Jalur Reguler** - Test akademik + wawancara\n2. **Jalur Prestasi** - Untuk siswa berprestasi akademik/non-akademik\n3. **Jalur Rapor** - Berdasarkan nilai rapor semester 1-5\n4. **Jalur KIP Kuliah** - Beasiswa penuh dari pemerintah\n\n## Beasiswa Tersedia:\n- Beasiswa Prestasi Akademik (100% SPP)\n- Beasiswa Prestasi Non-Akademik (50% SPP)\n- Beasiswa Alumni & Donatur (varies)\n- KIP Kuliah (full + biaya hidup)\n\n## Keunggulan SIEGA:\n- 4 konsentrasi unik (SI, E-Commerce, Game Tech, Akuntansi-SI)\n- Lab modern dengan peralatan VR/AR\n- Kerja sama dengan perusahaan unicorn\n- Program MBKM dan magang\n- Akreditasi Baik Sekali (A)\n- Alumni bekerja di perusahaan ternama\n\n## Cara Daftar:\n1. Akses website pmb.unika.ac.id\n2. Pilih Program Studi Sistem Informasi\n3. Upload dokumen persyaratan\n4. Bayar biaya pendaftaran Rp 500.000\n5. Ikuti test & wawancara\n\n**Info lebih lanjut:**\nWhatsApp PMB: 0819-0338-5595\nEmail: si@unika.ac.id\n\nJangan lewatkan kesempatanmu untuk Harvest Your Future Through Technology bersama SIEGA!",
+      "penulis": "Tim PMB Unika",
+      "tags": ["pendaftaran", "mahasiswa baru", "PMB", "beasiswa"],
+      "views": 1245,
+      "status": "published"
+    },
+    {
+      "id": 5,
+      "judul": "Launching SIEGA AutoBox: Inovasi Loker Kewirausahaan IoT",
+      "slug": "launching-siega-autobox",
+      "kategori": "Inovasi",
+      "tanggal": "2024-11-10",
+      "gambar": "https://siega.id/assets/images/berita/autobox-launch.jpg",
+      "ringkasan": "Program Studi SIEGA meluncurkan SIEGA AutoBox, loker kewirausahaan berbasis IoT dengan sistem pembayaran QRIS untuk kemudahan transaksi mahasiswa.",
+      "konten": "Semarang - Tim peneliti SIEGA meresmikan SIEGA AutoBox, sebuah inovasi loker penyimpanan barang berbasis Internet of Things (IoT) yang diintegrasikan dengan sistem pembayaran digital QRIS.\n\nProyek ini merupakan hasil penelitian kolaborasi antara dosen dan mahasiswa yang bertujuan mendukung ekosistem kewirausahaan mahasiswa.\n\n\"SIEGA AutoBox memudahkan mahasiswa entrepreneur untuk menyimpan dan mengelola barang dagangan mereka dengan sistem yang modern dan secure,\" jelas Agus Cahyo Nugroho, S.Kom., M.T. sebagai ketua tim peneliti.\n\n## Fitur SIEGA AutoBox:\n- Smart lock dengan akses mobile app\n- Payment system dengan QRIS\n- Real-time monitoring melalui dashboard\n- Temperature & humidity control\n- Notification system\n- History transaction tracking\n\nLoker ini ditempatkan di area strategis kampus dan dapat diakses 24/7 oleh mahasiswa yang terdaftar.\n\nRencana ke depan, SIEGA AutoBox akan dikembangkan untuk location tracking dan inventory management system yang lebih advanced.\n\nInovasi ini merupakan bukti komitmen SIEGA dalam mengintegrasikan teknologi untuk solusi real-world problems.",
+      "penulis": "Tim Humas SIEGA",
+      "tags": ["inovasi", "IoT", "research", "kewirausahaan"],
+      "views": 678,
+      "status": "published"
+    },
+    {
+      "id": 6,
+      "judul": "Workshop AI & Machine Learning: 100+ Peserta Antusias",
+      "slug": "workshop-ai-machine-learning",
+      "kategori": "Kegiatan",
+      "tanggal": "2024-11-05",
+      "gambar": "https://siega.id/assets/images/berita/workshop-ai.jpg",
+      "ringkasan": "Workshop AI & Machine Learning yang diselenggarakan SIEGA dihadiri lebih dari 100 peserta dari berbagai universitas di Semarang dan sekitarnya.",
+      "konten": "Semarang - Program Studi SIEGA menggelar Workshop AI & Machine Learning pada Sabtu, 2 November 2024 di Lab Sistem Informasi yang dihadiri lebih dari 100 peserta.\n\nWorkshop ini menghadirkan pembicara Dr. Bernadinus Harnadi, S.T., M.T. yang membagikan pengalaman dan best practices dalam implementasi AI dan ML untuk business intelligence.\n\nPeserta tidak hanya dari Unika, tetapi juga dari universitas lain seperti Undip, Unnes, dan Polines yang antusias belajar tentang teknologi AI.\n\n\"Workshop ini sangat aplikatif. Kami langsung practice membuat model ML menggunakan Python dan TensorFlow,\" ujar salah satu peserta, Andi (Mahasiswa Undip).\n\nMateri workshop meliputi:\n- Introduction to AI & ML\n- Python for Data Science\n- TensorFlow Basics\n- Building Classification Model\n- Case Study: Predictive Analytics\n\nSemua peserta mendapat e-certificate dan access ke learning materials yang bisa digunakan untuk belajar lebih lanjut.\n\nSIEGA berencana mengadakan workshop serupa setiap 3 bulan dengan topik teknologi terkini seperti Blockchain, Cloud Computing, dan Cybersecurity.",
+      "penulis": "Tim Humas SIEGA",
+      "tags": ["workshop", "AI", "machine learning", "pelatihan"],
+      "views": 534,
+      "status": "published"
+    }
+  ]
+}

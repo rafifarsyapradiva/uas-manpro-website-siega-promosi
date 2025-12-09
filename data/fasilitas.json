@@ -1,0 +1,241 @@
+{
+  "fasilitas": [
+    {
+      "id": 1,
+      "nama": "Lab Sistem Informasi",
+      "kategori": "Laboratorium",
+      "deskripsi": "Laboratorium dilengkapi dengan komputer spesifikasi tinggi untuk development dan implementasi ERP Systems, Business Intelligence, dan Data Analytics",
+      "kapasitas": "40 mahasiswa",
+      "lokasi": "Gedung FIK Lantai 2",
+      "jam_operasional": "Senin-Jumat: 08.00-17.00, Sabtu: 08.00-13.00",
+      "software": [
+        "SAP ERP",
+        "Oracle Database",
+        "Microsoft Dynamics 365",
+        "Tableau",
+        "Power BI",
+        "SQL Server",
+        "Visual Studio"
+      ],
+      "hardware": [
+        "40 PC Workstation (Intel i7, 16GB RAM, SSD)",
+        "Proyektor 4K",
+        "Smart Board Interactive",
+        "AC & Lighting Control System"
+      ],
+      "gambar": "https://siega.id/assets/images/fasilitas/lab-si.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Lab E-Commerce",
+      "kategori": "Laboratorium",
+      "deskripsi": "Fasilitas praktik e-commerce dengan platform marketplace dan digital marketing tools untuk pembelajaran bisnis online yang komprehensif",
+      "kapasitas": "35 mahasiswa",
+      "lokasi": "Gedung FIK Lantai 2",
+      "jam_operasional": "Senin-Jumat: 08.00-17.00, Sabtu: 08.00-13.00",
+      "software": [
+        "Shopify",
+        "WooCommerce",
+        "Magento",
+        "Google Analytics",
+        "SEMrush",
+        "Canva Pro",
+        "Adobe Creative Cloud"
+      ],
+      "hardware": [
+        "35 PC Multimedia (Intel i5, 16GB RAM)",
+        "Camera & Lighting Equipment",
+        "Product Photography Studio",
+        "Green Screen"
+      ],
+      "gambar": "https://siega.id/assets/images/fasilitas/lab-ecommerce.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Game Technology Lab",
+      "kategori": "Laboratorium",
+      "deskripsi": "Lab dengan peralatan VR/AR dan workstation untuk game development, 3D modeling, dan immersive technology",
+      "kapasitas": "30 mahasiswa",
+      "lokasi": "Gedung FIK Lantai 3",
+      "jam_operasional": "Senin-Jumat: 08.00-20.00, Sabtu: 08.00-15.00",
+      "software": [
+        "Unity 3D",
+        "Unreal Engine 5",
+        "Blender",
+        "Autodesk Maya",
+        "3DS Max",
+        "Substance Painter",
+        "Oculus SDK",
+        "Vuforia AR"
+      ],
+      "hardware": [
+        "30 Gaming PC (Intel i9, 32GB RAM, RTX 3070)",
+        "10 VR Headsets (Meta Quest 2)",
+        "Motion Capture System",
+        "Graphics Tablets (Wacom)",
+        "Professional Audio Equipment"
+      ],
+      "gambar": "https://siega.id/assets/images/fasilitas/lab-game.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "Accounting & SI Lab",
+      "kategori": "Laboratorium",
+      "deskripsi": "Lab khusus untuk praktik accounting software dan sistem informasi akuntansi dengan tools profesional",
+      "kapasitas": "35 mahasiswa",
+      "lokasi": "Gedung FIK Lantai 2",
+      "jam_operasional": "Senin-Jumat: 08.00-17.00",
+      "software": [
+        "Accurate Accounting",
+        "MYOB",
+        "Zahir Accounting",
+        "Jurnal.id",
+        "Oracle Financials",
+        "SAP Finance Module",
+        "Microsoft Excel Advanced"
+      ],
+      "hardware": [
+        "35 PC Workstation (Intel i5, 16GB RAM)",
+        "Dual Monitor Setup",
+        "Printer & Scanner",
+        "Financial Calculator"
+      ],
+      "gambar": "https://siega.id/assets/images/fasilitas/lab-aksi.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "Perpustakaan Fakultas Ilmu Komputer",
+      "kategori": "Perpustakaan",
+      "deskripsi": "Koleksi lengkap buku IT, jurnal internasional, dan e-resources untuk mendukung pembelajaran dan penelitian",
+      "kapasitas": "100 pengunjung",
+      "lokasi": "Gedung FIK Lantai 1",
+      "jam_operasional": "Senin-Jumat: 07.30-20.00, Sabtu: 08.00-15.00",
+      "koleksi": [
+        "5000+ Buku Teknologi Informasi",
+        "Jurnal Internasional (IEEE, ACM, Springer)",
+        "E-Books & E-Journals",
+        "Final Project Archives",
+        "Video Tutorial & Online Courses"
+      ],
+      "fasilitas": [
+        "Digital Library System",
+        "Study Rooms (10 ruangan)",
+        "Discussion Space",
+        "Reading Area dengan AC",
+        "Free WiFi",
+        "Printing & Scanning Services"
+      ],
+      "gambar": "https://siega.id/assets/images/fasilitas/library.jpg"
+    },
+    {
+      "id": 6,
+      "nama": "Co-Working Space SIEGA",
+      "kategori": "Ruang Bersama",
+      "deskripsi": "Ruang kreatif untuk mahasiswa startup, project development, dan kolaborasi tim",
+      "kapasitas": "50 mahasiswa",
+      "lokasi": "Gedung FIK Lantai 1",
+      "jam_operasional": "Senin-Jumat: 08.00-20.00, Sabtu-Minggu: 09.00-17.00",
+      "fasilitas": [
+        "High-speed WiFi 500 Mbps",
+        "Meeting Rooms (4 ruangan)",
+        "Whiteboard & Flipchart",
+        "Comfortable Seating Area",
+        "Pantry & Coffee Bar",
+        "Charging Stations",
+        "Projector & TV Display"
+      ],
+      "gambar": "https://siega.id/assets/images/fasilitas/coworking.jpg"
+    },
+    {
+      "id": 7,
+      "nama": "Studio Multimedia",
+      "kategori": "Studio",
+      "deskripsi": "Studio untuk produksi konten multimedia, video editing, dan podcasting",
+      "kapasitas": "15 mahasiswa",
+      "lokasi": "Gedung FIK Lantai 3",
+      "jam_operasional": "Senin-Jumat: 09.00-17.00 (by reservation)",
+      "peralatan": [
+        "Professional Camera (Sony A7III)",
+        "Lighting Kit Professional",
+        "Green Screen Studio",
+        "Audio Recording Booth",
+        "Video Editing Workstation",
+        "Podcast Equipment",
+        "Gimbal & Stabilizer"
+      ],
+      "software": [
+        "Adobe Premiere Pro",
+        "After Effects",
+        "DaVinci Resolve",
+        "Audacity",
+        "OBS Studio"
+      ],
+      "gambar": "https://siega.id/assets/images/fasilitas/studio.jpg"
+    },
+    {
+      "id": 8,
+      "nama": "Innovation Hub",
+      "kategori": "Ruang Inovasi",
+      "deskripsi": "Pusat inkubasi startup dan innovation projects untuk mahasiswa entrepreneur",
+      "kapasitas": "30 mahasiswa",
+      "lokasi": "Gedung FIK Lantai 1",
+      "jam_operasional": "24/7 (untuk tenant)",
+      "program": [
+        "Startup Incubation",
+        "Mentoring with Experts",
+        "Business Coaching",
+        "Funding Support",
+        "Networking Events"
+      ],
+      "fasilitas": [
+        "Private Desk for Startups",
+        "Meeting Rooms",
+        "Event Space",
+        "High-speed Internet",
+        "Business Support Services"
+      ],
+      "gambar": "https://siega.id/assets/images/fasilitas/innovation-hub.jpg"
+    },
+    {
+      "id": 9,
+      "nama": "Ruang Kelas Smart",
+      "kategori": "Ruang Kuliah",
+      "deskripsi": "Ruang kelas dengan teknologi smart classroom untuk pembelajaran interaktif",
+      "kapasitas": "45 mahasiswa per kelas",
+      "lokasi": "Gedung FIK Lantai 2-3",
+      "jumlah": "12 ruangan",
+      "fasilitas": [
+        "Smart Board Interactive",
+        "Projector 4K",
+        "Sound System",
+        "Document Camera",
+        "AC & Ergonomic Chairs",
+        "WiFi Coverage",
+        "Power Outlets"
+      ],
+      "gambar": "https://siega.id/assets/images/fasilitas/smart-class.jpg"
+    },
+    {
+      "id": 10,
+      "nama": "Kantin & Food Court",
+      "kategori": "Fasilitas Umum",
+      "deskripsi": "Area makan dengan berbagai pilihan makanan dan minuman",
+      "kapasitas": "200 pengunjung",
+      "lokasi": "Gedung Utama Lantai 1",
+      "jam_operasional": "Senin-Jumat: 07.00-18.00, Sabtu: 07.00-14.00",
+      "tenant": [
+        "5 Warung Makan",
+        "Coffee Shop",
+        "Snack Bar",
+        "Fruit Juice Stand"
+      ],
+      "fasilitas": [
+        "Indoor & Outdoor Seating",
+        "Free WiFi",
+        "Charging Stations",
+        "Musholla nearby"
+      ],
+      "gambar": "https://siega.id/assets/images/fasilitas/kantin.jpg"
+    }
+  ]
+}

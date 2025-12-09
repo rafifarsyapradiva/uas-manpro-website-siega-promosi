@@ -1,0 +1,88 @@
+{
+  "artikel": [
+    {
+      "id": 1,
+      "judul": "Mengenal 4 Konsentrasi SIEGA: Mana Yang Cocok Untukmu?",
+      "slug": "mengenal-4-konsentrasi-siega",
+      "kategori": "Informasi Akademik",
+      "penulis": "Tim SIEGA",
+      "tanggal": "2024-11-25",
+      "gambar_thumbnail": "https://siega.id/assets/images/artikel/konsentrasi-siega.jpg",
+      "excerpt": "SIEGA menawarkan 4 konsentrasi unik: Sistem Informasi, E-Commerce, Game Technology, dan Akuntansi-SI. Mari kita bahas satu per satu untuk membantumu memilih...",
+      "konten": "SIEGA (Sistem Informasi, E-Commerce, Game Technology, Akuntansi-SI) adalah program studi yang menawarkan 4 pilihan konsentrasi menarik...\n\n## 1. Sistem Informasi\nKonsentrasi ini fokus pada pengembangan sistem informasi untuk mendukung bisnis...\n\n## 2. E-Commerce\nPelajari seluk beluk bisnis online dari teknologi hingga strategi marketing...\n\n## 3. Game Technology\nBuat game impianmu dengan teknologi VR/AR terkini...\n\n## 4. Akuntansi-SI (Double Degree)\nDapatkan 2 gelar sekaligus: S.Kom dan S.Ak...",
+      "tags": ["konsentrasi", "pilihan jurusan", "karir"],
+      "views": 1250,
+      "status": "published"
+    },
+    {
+      "id": 2,
+      "judul": "Tips Sukses Magang di Perusahaan Unicorn: Pengalaman Alumni SIEGA",
+      "slug": "tips-sukses-magang-unicorn",
+      "kategori": "Karir & Alumni",
+      "penulis": "Yohanes Surya (Alumni 2022)",
+      "tanggal": "2024-11-20",
+      "gambar_thumbnail": "https://siega.id/assets/images/artikel/magang-unicorn.jpg",
+      "excerpt": "Dari SIEGA ke Gojek: Perjalanan saya sebagai intern hingga menjadi Senior Business Analyst. Ini tips yang perlu kamu tahu...",
+      "konten": "Ketika semester 6, saya mendapat kesempatan magang di Gojek melalui program MBKM SIEGA. Awalnya nervous, tapi ternyata...\n\n## 1. Persiapan Sebelum Magang\n- Portfolio projects yang kuat\n- LinkedIn profile yang menarik\n- Soft skills communication\n\n## 2. Selama Magang\n- Be proactive dan curious\n- Network dengan tim lain\n- Document everything you learn\n\n## 3. After Magang\n- Stay connected dengan mentor\n- Update portfolio dengan project magang\n- Apply for full-time position",
+      "tags": ["magang", "karir", "tips", "alumni"],
+      "views": 2340,
+      "status": "published"
+    },
+    {
+      "id": 3,
+      "judul": "Roadmap Belajar Web Development 2025: Full-Stack Developer Path",
+      "slug": "roadmap-web-development-2025",
+      "kategori": "Tutorial & Learning",
+      "penulis": "Andre Kurniawan Pamudji, S.Kom., M.Ling.",
+      "tanggal": "2024-11-15",
+      "gambar_thumbnail": "https://siega.id/assets/images/artikel/roadmap-webdev.jpg",
+      "excerpt": "Panduan lengkap untuk menjadi Full-Stack Web Developer di tahun 2025. Dari HTML/CSS hingga React, Node.js, dan deployment...",
+      "konten": "Menjadi web developer adalah salah satu karir paling promising di 2025. Berikut roadmap lengkapnya:\n\n## Phase 1: Fundamentals (3 bulan)\n- HTML5 & CSS3\n- JavaScript ES6+\n- Git & GitHub\n- Responsive Design\n\n## Phase 2: Frontend Framework (2 bulan)\n- React.js atau Vue.js\n- State Management\n- API Integration\n\n## Phase 3: Backend Development (2 bulan)\n- Node.js & Express\n- Database (MongoDB/PostgreSQL)\n- RESTful API Design\n- Authentication & Authorization\n\n## Phase 4: DevOps & Deployment (1 bulan)\n- Docker basics\n- CI/CD\n- Cloud deployment (AWS/GCP)\n\n## Resources:\n- FreeCodeCamp\n- MDN Web Docs\n- Frontend Mentor (practice projects)",
+      "tags": ["web development", "tutorial", "programming", "full-stack"],
+      "views": 3120,
+      "status": "published"
+    },
+    {
+      "id": 4,
+      "judul": "Mengenal Artificial Intelligence: Bukan Cuma ChatGPT!",
+      "slug": "mengenal-artificial-intelligence",
+      "kategori": "Teknologi",
+      "penulis": "Dr. Bernadinus Harnadi, S.T., M.T.",
+      "tanggal": "2024-11-10",
+      "gambar_thumbnail": "https://siega.id/assets/images/artikel/ai-technology.jpg",
+      "excerpt": "AI lebih dari sekadar ChatGPT. Mari kita explore berbagai aplikasi AI dalam kehidupan sehari-hari dan masa depan teknologi...",
+      "konten": "Artificial Intelligence (AI) telah menjadi buzzword di mana-mana. Tapi apakah AI hanya ChatGPT?\n\n## Apa itu AI?\nAI adalah kemampuan mesin untuk meniru kecerdasan manusia...\n\n## Jenis-jenis AI:\n1. **Narrow AI** - Fokus pada task spesifik (Siri, Alexa)\n2. **General AI** - Bisa melakukan berbagai task (masih dalam research)\n3. **Super AI** - Melebihi manusia (belum ada)\n\n## Aplikasi AI di Berbagai Industri:\n- **Healthcare**: Diagnosis penyakit, drug discovery\n- **Finance**: Fraud detection, trading algorithms\n- **E-Commerce**: Recommendation systems, chatbots\n- **Gaming**: NPC behavior, procedural generation\n\n## Belajar AI di SIEGA:\nMahasiswa SIEGA bisa belajar AI melalui mata kuliah Machine Learning, Data Mining, dan Business Intelligence...",
+      "tags": ["AI", "machine learning", "teknologi", "future"],
+      "views": 4560,
+      "status": "published"
+    },
+    {
+      "id": 5,
+      "judul": "E-Commerce Trends 2025: Yang Perlu Kamu Tahu",
+      "slug": "ecommerce-trends-2025",
+      "kategori": "E-Commerce",
+      "penulis": "Prof. Dr. Ridwan Sanjaya",
+      "tanggal": "2024-11-05",
+      "gambar_thumbnail": "https://siega.id/assets/images/artikel/ecommerce-trends.jpg",
+      "excerpt": "Industri e-commerce terus berkembang. Live streaming commerce, social commerce, dan AI-powered personalization akan mendominasi 2025...",
+      "konten": "E-Commerce di Indonesia tumbuh pesat dengan nilai transaksi mencapai Rp 500 triliun di 2024. Apa yang akan terjadi di 2025?\n\n## Top 5 Trends:\n\n### 1. Live Shopping Commerce\nSeperti TikTok Shop dan Shopee Live, live shopping akan semakin populer...\n\n### 2. Social Commerce Integration\nBelanja langsung dari Instagram, Facebook, WhatsApp...\n\n### 3. AI Personalization\nRekomendasi produk yang super akurat berdasarkan behavior...\n\n### 4. Sustainability & Green Commerce\nKonsumen peduli produk ramah lingkungan...\n\n### 5. Voice Commerce\nBelanja dengan voice command melalui smart speaker...\n\n## Peluang Karir:\nKonsentrasi E-Commerce SIEGA mempersiapkan mahasiswa untuk karir di:\n- Digital Marketing\n- E-Commerce Manager\n- Social Media Strategist\n- Growth Hacker\n- Online Entrepreneur",
+      "tags": ["e-commerce", "digital marketing", "trends", "bisnis online"],
+      "views": 2890,
+      "status": "published"
+    },
+    {
+      "id": 6,
+      "judul": "Membuat Game Pertamamu dengan Unity: Beginner's Guide",
+      "slug": "membuat-game-pertama-unity",
+      "kategori": "Tutorial & Learning",
+      "penulis": "Dr. T. Brenda Chandrawati, S.T., M.T.",
+      "tanggal": "2024-10-30",
+      "gambar_thumbnail": "https://siega.id/assets/images/artikel/unity-beginners.jpg",
+      "excerpt": "Tutorial step-by-step membuat game sederhana dengan Unity Engine. Perfect untuk pemula yang ingin mulai game development journey...",
+      "konten": "Unity adalah game engine paling populer untuk membuat game 2D dan 3D. Mari kita buat game pertamamu!\n\n## Prerequisites:\n- Download Unity Hub & Unity Editor\n- Basic programming (C# lebih baik)\n- Passion untuk game!\n\n## Step 1: Setup Project\nBuka Unity Hub → New Project → 2D Template...\n\n## Step 2: Understand Unity Interface\n- Scene View: tempat design game\n- Game View: preview saat running\n- Hierarchy: list semua objects\n- Inspector: properties object\n- Project: semua assets\n\n## Step 3: Create Simple Platform Game\n1. Add Player sprite\n2. Add physics (Rigidbody2D)\n3. Add ground platform\n4. Write movement script (C#)\n5. Add camera follow\n\n## Resources Belajar:\n- Unity Learn (official tutorials)\n- Brackeys (YouTube)\n- GameDev.tv courses\n\n## Di Lab Game SIEGA:\nKami punya Unity Pro license dan VR headsets untuk experiment!",
+      "tags": ["game development", "unity", "tutorial", "programming"],
+      "views": 3450,
+      "status": "published"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "alumni": [
+    {
+      "id": 1,
+      "nama": "Yohanes Surya",
+      "angkatan": "2018",
+      "tahun_lulus": "2022",
+      "konsentrasi": "Sistem Informasi",
+      "posisi_saat_ini": "Senior Business Analyst",
+      "perusahaan": "Gojek Indonesia",
+      "lokasi": "Jakarta",
+      "foto": "https://siega.id/assets/images/alumni/yohanes.jpg",
+      "linkedin": "https://linkedin.com/in/yohanes-surya",
+      "prestasi": [
+        "Promoted to Senior level dalam 2 tahun",
+        "Led 5+ major business transformation projects",
+        "Certified SAP Business Analyst"
+      ],
+      "testimony": "SIEGA memberikan fondasi yang kuat dalam memahami bisnis dan teknologi secara bersamaan. Pembelajaran berbasis project real membuat saya siap menghadapi tantangan di industri.",
+      "career_journey": "Started as Junior BA di startup → Business Analyst di Tokopedia (1 tahun) → Senior BA di Gojek (sekarang)",
+      "tips": "Manfaatkan setiap kesempatan magang dan project. Jangan takut bertanya dan terus belajar teknologi baru."
+    },
+    {
+      "id": 2,
+      "nama": "Maxine Olexa",
+      "angkatan": "2020",
+      "tahun_lulus": "2024",
+      "konsentrasi": "E-Commerce",
+      "posisi_saat_ini": "Digital Marketing Manager",
+      "perusahaan": "Shopee Indonesia",
+      "lokasi": "Jakarta",
+      "foto": "https://siega.id/assets/images/alumni/maxine.jpg",
+      "instagram": "@maxineolexa",
+      "prestasi": [
+        "Student of The Year 2022",
+        "Managed Rp 2M+ digital marketing budget",
+        "Increased conversion rate by 45%",
+        "Google Analytics & Meta Certified"
+      ],
+      "testimony": "Konsentrasi E-Commerce membuka wawasan saya tentang bisnis digital dan entrepreneurship. Dosen-dosen yang supportif dan curriculum yang up-to-date membuat learning experience sangat valuable.",
+      "career_journey": "Intern Digital Marketing (semester 6) → Junior DM di Bukalapak → DM Manager di Shopee",
+      "tips": "Build your personal brand early. Social media bukan hanya untuk fun, tapi bisa jadi portfolio dan networking tool yang powerful."
+    },
+    {
+      "id": 3,
+      "nama": "Yedija Prima",
+      "angkatan": "2013",
+      "tahun_lulus": "2017",
+      "konsentrasi": "Game Technology",
+      "posisi_saat_ini": "Lead Game Developer",
+      "perusahaan": "Agate International",
+      "lokasi": "Bandung",
+      "foto": "https://siega.id/assets/images/alumni/yedija.jpg",
+      "portfolio": "https://yedijaprima.com",
+      "prestasi": [
+        "Developed 3 games published on Steam",
+        "Won Best Mobile Game Award 2020",
+        "Speaker at Game Developers Conference",
+        "Unity Certified Expert"
+      ],
+      "testimony": "SIEGA Game Tech memberikan pengalaman hands-on yang tidak terlupakan. Lab VR/AR dan game jam regular membuat saya terbiasa develop game dalam tim dan deadline ketat.",
+      "career_journey": "Freelance Game Dev → Junior GD di Toge Productions → Lead GD di Agate",
+      "tips": "Buat game sendiri, publish di itch.io atau Play Store. Portfolio projects lebih penting daripada nilai. Join game dev communities dan networking!"
+    },
+    {
+      "id": 4,
+      "nama": "Maria Kristina",
+      "angkatan": "2017",
+      "tahun_lulus": "2022",
+      "konsentrasi": "Akuntansi-SI",
+      "posisi_saat_ini": "IT Auditor",
+      "perusahaan": "Deloitte Indonesia",
+      "lokasi": "Jakarta",
+      "foto": "https://siega.id/assets/images/alumni/maria.jpg",
+      "linkedin": "https://linkedin.com/in/maria-kristina",
+      "prestasi": [
+        "Passed CPA exam on first attempt",
+        "Certified Information Systems Auditor (CISA)",
+        "Handled 20+ audit projects",
+        "Youngest Senior IT Auditor in team"
+      ],
+      "testimony": "Double degree membuat saya lebih competitive di job market. Kombinasi accounting knowledge dan IT skills sangat dicari oleh Big Four. Investasi terbaik!",
+      "career_journey": "Intern di KPMG → Junior IT Auditor di PwC → IT Auditor di Deloitte",
+      "tips": "Double degree memang challenging tapi worth it. Time management adalah kunci. Ambil sertifikasi internasional seperti CISA atau CIA."
+    },
+    {
+      "id": 5,
+      "nama": "Alexander Chen",
+      "angkatan": "2016",
+      "tahun_lulus": "2020",
+      "konsentrasi": "E-Commerce",
+      "posisi_saat_ini": "Founder & CEO",
+      "perusahaan": "TechCommerce Solutions",
+      "lokasi": "Semarang",
+      "foto": "https://siega.id/assets/images/alumni/alexander.jpg",
+      "website": "https://techcommerce.id",
+      "prestasi": [
+        "Built startup from 0 to 50+ employees",
+        "Serving 200+ UMKM clients",
+        "Revenue Rp 10M+ per year",
+        "Featured in Forbes 30 Under 30"
+      ],
+      "testimony": "SIEGA mengajarkan saya tidak hanya technical skills tapi juga entrepreneurial mindset. Support dari dosen untuk startup sangat luar biasa.",
+      "career_journey": "Built first SaaS product (semester 7) → Won startup competition → Founded company (2020) → Scaling now",
+      "tips": "Don't wait until graduation untuk start your business. Build MVP, test market, iterate. SIEGA punya ecosystem yang supportive untuk startup!"
+    },
+    {
+      "id": 6,
+      "nama": "Jessica Tanuwijaya",
+      "angkatan": "2015",
+      "tahun_lulus": "2019",
+      "konsentrasi": "Game Technology",
+      "posisi_saat_ini": "3D Artist & Animator",
+      "perusahaan": "Ubisoft Singapore",
+      "lokasi": "Singapore",
+      "foto": "https://siega.id/assets/images/alumni/jessica.jpg",
+      "artstation": "https://artstation.com/jessicatanu",
+      "prestasi": [
+        "Worked on AAA game titles",
+        "Won Best 3D Art Competition 2019",
+        "Featured artist in 3D World Magazine",
+        "Autodesk Maya Certified Professional"
+      ],
+      "testimony": "Game lab SIEGA dengan peralatan modern membantu saya develop portfolio yang strong. Kesempatan ke international conference juga membuka networking global.",
+      "career_journey": "3D Artist Intern di local studio → Junior Artist di Garena → 3D Artist di Ubisoft Singapore",
+      "tips": "Build amazing portfolio. Quality over quantity. Show your best 10 works, bukan 100 works yang average. ArtStation adalah must!"
+    }
+  ]
+}
